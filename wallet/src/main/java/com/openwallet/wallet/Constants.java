@@ -129,7 +129,7 @@ public class Constants {
 
     // TODO move to resource files
     public static final List<CoinAddress> DEFAULT_COINS_SERVERS = ImmutableList.of(
-            new CoinAddress(QuebecoinMain.get(),    new ServerAddress("192.99.238.238", 50001),
+            new CoinAddress(QuebecoinMain.get(),    new ServerAddress("139.59.119.27", 50001),
                                                     new ServerAddress("192.99.238.238", 50001))
     );
 
